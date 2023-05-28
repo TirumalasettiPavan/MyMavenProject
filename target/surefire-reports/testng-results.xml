@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-28T13:15:30 IST" name="Suite" finished-at="2023-05-28T13:16:47 IST" duration-ms="77403">
+    <groups>
+    </groups>
+    <test started-at="2023-05-28T13:15:30 IST" name="Test" finished-at="2023-05-28T13:16:47 IST" duration-ms="77403">
+      <class name="com.maven.TC_Login">
+        <test-method signature="login_Test()[pri:0, instance:com.maven.TC_Login@76908cc0]" started-at="2023-05-28T13:15:30 IST" name="login_Test" finished-at="2023-05-28T13:16:47 IST" duration-ms="77353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Test -->
+      </class> <!-- com.maven.TC_Login -->
+      <class name="com.maven.AppTest">
+        <test-method signature="testlogin1()[pri:0, instance:com.maven.AppTest@6ef888f6]" started-at="2023-05-28T13:15:30 IST" name="testlogin1" finished-at="2023-05-28T13:15:30 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin1 -->
+        <test-method signature="testlogin2()[pri:0, instance:com.maven.AppTest@6ef888f6]" started-at="2023-05-28T13:15:30 IST" name="testlogin2" finished-at="2023-05-28T13:15:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin2 -->
+      </class> <!-- com.maven.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
